@@ -1,26 +1,26 @@
 $\int f\;(x)dx=F\;(x)+C$
 
-|$f\;(x)$|$F\;(x)$|
-|-|-|
-|$x^n$|$\dfrac{x^{n+1}}{n+1}$|
-|$\dfrac{1}{x}$|$ln\;\lvert x \rvert$|
-|$a^x$|$\dfrac{a^x}{ln\;(a)}$|
-|$sin\;(x)$|$-cos\;(x)$|
-|$cos\;(x)$|$sin\;(x)$|
-|$tan\;(x)$|$ln\;\lvert sec\;(x) \rvert$|
-|$cot\;(x)$|$ln\;\lvert sin\;(x) \rvert$|
-|$sec\;(x)$|$ln\;\lvert sec\;(x)+tan\;(x)\rvert$|
-|$cosec\;(x)$|$ln\;\lvert cosec\;(x)-cot\;(x)\rvert$|
-|$sec^2\;(x)$|$tan\;(x)$|
-|$cosec^2\;(x)$|$-cot\;(x)$|
-|$sec\;(x)\;tan\;(x)$|$sec\;(x)$|
-|$cosec\;(x)\;cot\;(x)$|$-cosec\;(x)$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
+| $f\;(x)$               | $F\;(x)$                               |
+|------------------------|----------------------------------------|
+| $x^n$                  | $\dfrac{x^{n+1}}{n+1}$                 |
+| $\dfrac{1}{x}$         | $ln\;\lvert x \rvert$                  |
+| $a^x$                  | $\dfrac{a^x}{ln\;(a)}$                 |
+| $sin\;(x)$             | $-cos\;(x)$                            |
+| $cos\;(x)$             | $sin\;(x)$                             |
+| $tan\;(x)$             | $ln\;\lvert sec\;(x) \rvert$           |
+| $cot\;(x)$             | $ln\;\lvert sin\;(x) \rvert$           |
+| $sec\;(x)$             | $ln\;\lvert sec\;(x)+tan\;(x)\rvert$   |
+| $cosec\;(x)$           | $ln\;\lvert cosec\;(x)-cot\;(x)\rvert$ |
+| $sec^2\;(x)$           | $tan\;(x)$                             |
+| $cosec^2\;(x)$         | $-cot\;(x)$                            |
+| $sec\;(x)\;tan\;(x)$   | $sec\;(x)$                             |
+| $cosec\;(x)\;cot\;(x)$ | $-cosec\;(x)$                          |
+| $$                     | $$                                     |
+| $$                     | $$                                     |
+| $$                     | $$                                     |
+| $$                     | $$                                     |
+| $$                     | $$                                     |
+| $$                     | $$                                     |
 
 # Important Things to remember
 
@@ -67,19 +67,19 @@ $\int\dfrac{dx}{x^n\;(1+x^n)^{\frac{1}{n}}}=\dfrac{-1}{n-1}\;\left(1+\dfrac{1}{x
 
 4) If you see two polynomials 
 
-|$$|$$|
-|-|-|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
-|$$|$$|
+| $$ | $$ |
+|----|----|
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |
+| $$ | $$ |

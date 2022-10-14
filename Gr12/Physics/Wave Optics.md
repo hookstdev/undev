@@ -6,11 +6,11 @@
 
 It is a continuous locus of all points in a medium which oscillate with the same phase.<br>
 Direction of propogation of wave is perpendicular to wavefront.<br>
-|Wavefront|Shape of light source|Variation of Amplitude (A)|Variation of Intensity (I)|
-|-|-|-|-|
-|Spherical|Point source|$A∝\dfrac{1}{d}$|$I∝\dfrac{1}{d^2}$|
-|Cylindrical|Linear source|$A∝\dfrac{1}{\sqrt{d}}$|$I∝\dfrac{1}{d}$|
-|Planar|Extended large source|$A=constant$|$I=constant$|
+| Wavefront   | Shape of light source | Variation of Amplitude (A) | Variation of Intensity (I) |
+|-------------|-----------------------|----------------------------|----------------------------|
+| Spherical   | Point source          | $A∝\dfrac{1}{d}$           | $I∝\dfrac{1}{d^2}$         |
+| Cylindrical | Linear source         | $A∝\dfrac{1}{\sqrt{d}}$    | $I∝\dfrac{1}{d}$           |
+| Planar      | Extended large source | $A=constant$               | $I=constant$               |
 
 ## Huygen's Principle
 
@@ -78,10 +78,9 @@ $y_{n}=\begin{cases}
     \end{cases}$
 
 
-|Interference|Diffraction|
-|-|-|
-|$\Delta x$|$a sin(\theta)$
-|
+| Interference | Diffraction     |
+|--------------|-----------------|
+| $\Delta x$   | $a sin(\theta)$ |
 # Formulae:
 
 $I=\dfrac{P}{A}$
