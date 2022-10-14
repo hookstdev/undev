@@ -66,6 +66,7 @@ $\\ \int\dfrac{dx}{x^2\;(x^n+1)^{\frac{n-1}{n}}}=-\left(1+\dfrac{1}{x^n}\right)^
 $\int\dfrac{dx}{x^n\;(1+x^n)^{\frac{1}{n}}}=\dfrac{-1}{n-1}\;\left(1+\dfrac{1}{x^n}\right)^{\frac{n-1}{n}}$
 
 4) If you see two polynomials 
+
 |$$|$$|
 |-|-|
 |$$|$$|
