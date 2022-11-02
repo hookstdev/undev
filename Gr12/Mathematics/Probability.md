@@ -10,13 +10,19 @@ $P(A\cup B)=P(A)+P(B)-P(A\cap B)$
 
 $P(A/B) \text{ --> Probability of A given B} = \dfrac{n(A\cap B)}{n(B)}=\dfrac{P(A\cap B)}{P(B)}$
 
-# Multiplication Theorem
+## Multiplication Theorem
 
 If more than one order satisfies the condition, then find probability of each order and add them.
 
-$P(A\cap B)=P(A)\times P(A/B)$
+$P(A\cap B)=P(B)\times P(A/B)$
 
-$P(A\cap B\cap C)=P(A)\times P(A/B)\times$
+$P(A\cap B\cap C)=P(A)\times P(A/B)\times P(C/A\cap B)$
 
 Note: Face Cards are King, Queen and Jack.
+
+# Independent Events 
+
+$P(A/B)=P(A)$
+
+$P(A\cap B)=P(A)\times P(B)$
 
