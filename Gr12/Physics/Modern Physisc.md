@@ -100,3 +100,6 @@ $K_{\alpha}$ : It means that electron is removed from K shell and is filled by e
 | Penetrating power     | Less                              | More                                     |
 | Energy                |                                   |                                          |
 |                       | Radiography (more like fractures) | Radiotherapy (more like cancer treatment |
+
+## Moseley's Law
+
