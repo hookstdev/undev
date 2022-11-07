@@ -99,7 +99,61 @@ $K_{\alpha}$ : It means that electron is removed from K shell and is filled by e
 | Wavelength (in $\AA$) | 10 to 100                         | 0.1 to 10                                |
 | Penetrating power     | Less                              | More                                     |
 | Energy                |                                   |                                          |
-|                       | Radiography (more like fractures) | Radiotherapy (more like cancer treatment |
+| Uses                  | Radiography (more like fractures) | Radiotherapy (more like cancer treatment |
 
 ## Moseley's Law
 
+$\sqrt{\nu}=a(Z-b)$ 
+
+$\dfrac{1}{\lambda}=R\:(Z-b)^2\left(\dfrac{1}{n_1^2}-\dfrac{1}{n_2^2}\right)$
+
+where,
+
+$\nu\;$: frequency
+
+$a=\sqrt{\dfrac{3cR}{4}}\approx 49.67\times10^8$
+
+$b\;$: Screening constant
+
+## Bragg's Law
+
+$2d\;sin(\theta)=n\lambda$
+
+where;
+
+$d$: Distance<br>
+$\theta$: Bragg's angle<br>
+$\lambda$: De-Broglie Wavelength
+
+# Nucleus
+
+## Terminology
+
+$m_{p}=1.672\times10^{-27}\;kg\\$
+$m_{n}=1.674\times10^{-27}\;kg$
+
+Z: Atomic number<br>
+A: Atomic Mass
+$\\n_n=Z\\n_p=A-Z$
+
+$1\;amu =1.6603\times10^{-27}=\dfrac{1}{12}\times\text{ mass of one }_6C^{12}\text{ atom }$
+
+![](https://i.imgur.com/7seBvhW.png)
+
+## Size:
+
+$R=R_0A^{\frac{1}{3}}\\R_0=1.1\times10^{-15}\;m=1.1\;fm$
+
+$\rho\approxeq 3\times10^{17}\;kg/m^3$ (independent of A)
+
+## Mass Defect
+
+
+
+$\Delta M=m_\text{expected}-m_\text{actual}$
+
+$\Delta M=m_\text{nucleons}-m_\text{nucleus}$
+
+$\Delta M=n_nM_n+n_pM_p-M_\text{nucleus}$
+    
+$1\;amu\times c^2=931.5\;MeV$
